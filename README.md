@@ -6,6 +6,17 @@ A comprehensive Snowflake Streamlit application for monitoring and analyzing Sno
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+## Screenshots
+
+### Overview Dashboard
+![Overview Dashboard](screenshots/Screenshot_1.png)
+
+### Consumption Analytics
+![Consumption Analytics](screenshots/Screenshot_2.png)
+
+### Token Economy Analysis
+![Token Economy Analysis](screenshots/Screenshot_3.png)
+
 ## Features
 
 ### 📊 Comprehensive Cost Tracking
