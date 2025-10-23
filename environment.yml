@@ -1,0 +1,7 @@
+name: streamlit_cortex_cost
+channels:
+  - snowflake
+dependencies:
+  - snowflake-snowpark-python
+  - streamlit
+  - pandas
