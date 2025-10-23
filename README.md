@@ -9,13 +9,13 @@ A comprehensive Snowflake Streamlit application for monitoring and analyzing Sno
 ## Screenshots
 
 ### Overview Dashboard
-![Overview Dashboard](screenshots/Screenshot_1.png)
+![Overview Dashboard](screenshots/Screenshot_3.png)
 
 ### Consumption Analytics
 ![Consumption Analytics](screenshots/Screenshot_2.png)
 
 ### Token Economy Analysis
-![Token Economy Analysis](screenshots/Screenshot_3.png)
+![Token Economy Analysis](screenshots/Screenshot_1.png)
 
 ## Features
 
